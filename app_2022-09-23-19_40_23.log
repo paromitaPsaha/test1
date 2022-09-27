@@ -1,0 +1,42 @@
+2022-Sep-23 19:40:30 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:40:31 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:41:03 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:41:03 pm [main] INFO  Assignment_1_CucumberBDD.StepDef.StepDefFile - User is on landing page after navigating to base URL
+2022-Sep-23 19:41:04 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - validate current URL of page ,so URL is: http://automationpractice.com/index.php
+2022-Sep-23 19:41:04 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:41:07 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:41:07 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:41:20 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:41:20 pm [main] INFO  Assignment_1_CucumberBDD.StepDef.StepDefFile - User is on landing page after navigating to base URL
+2022-Sep-23 19:41:20 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - Validate title of page, title is:My Store
+2022-Sep-23 19:41:23 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:41:27 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:41:27 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:41:51 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:41:51 pm [main] INFO  Assignment_1_CucumberBDD.StepDef.StepDefFile - User is on landing page after navigating to base URL
+2022-Sep-23 19:41:52 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:41:54 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:41:54 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:42:09 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:42:09 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - Height of logo is: 99
+2022-Sep-23 19:42:09 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - Validate the height of logo
+2022-Sep-23 19:42:09 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:42:11 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:42:11 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:42:20 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:42:20 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - Width of logo is: 350
+2022-Sep-23 19:42:20 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.CommonPageObject - Validate the width of logo
+2022-Sep-23 19:42:21 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:42:22 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:42:22 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:42:31 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:42:31 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Validate the signIn Button
+2022-Sep-23 19:42:35 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Click on the signIn Button
+2022-Sep-23 19:42:35 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Validate title of signIn page, so title is: Login - My Store
+2022-Sep-23 19:42:36 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
+2022-Sep-23 19:42:37 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-23 19:42:38 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-23 19:42:50 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-23 19:42:50 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.FooterObject - Validate the twitter link
+2022-Sep-23 19:42:50 pm [main] INFO  Assignment_1_CucumberBDD.PageObject.FooterObject - Click the ltwitter link
+2022-Sep-23 19:42:51 pm [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser

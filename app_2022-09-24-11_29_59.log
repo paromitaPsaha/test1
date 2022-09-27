@@ -1,0 +1,7 @@
+2022-Sep-24 11:30:11 am [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Chrome browser invoked
+2022-Sep-24 11:30:12 am [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - browser window maximized and set timeout is 20 second
+2022-Sep-24 11:30:27 am [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - navigate to url
+2022-Sep-24 11:30:28 am [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Validate the signIn Button
+2022-Sep-24 11:30:42 am [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Click on the signIn Button
+2022-Sep-24 11:30:42 am [main] INFO  Assignment_1_CucumberBDD.PageObject.SigninPageObject - Validate title of signIn page, so title is: Login - My Store
+2022-Sep-24 11:30:43 am [main] INFO  Assignment_1_CucumberBDD.Core.WebDriverFactory1 - Quit the browser
