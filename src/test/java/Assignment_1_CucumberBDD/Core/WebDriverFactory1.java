@@ -73,7 +73,7 @@ public class WebDriverFactory1 {
 		driver.switchTo().window(newWindowId);
 //		//-----using arraylist--------
 //		ArrayList<String> arr = new ArrayList<String>();
-//		String childWindow=	arr.get(0);
+//		String childWindow=	arr.get(1);
 //		driver.switchTo().window(childWindow);
 //		logger.info("Switch to new Window, its id is: "+ newWindowId);
 	}
